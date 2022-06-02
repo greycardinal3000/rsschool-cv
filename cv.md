@@ -2,6 +2,7 @@
 ### Music Editor
 ![Avatar](https://avatars.githubusercontent.com/u/105670264?v=4)
 ***
+
 ## Contacts
 **Phone:**
 +971 50 3815405
@@ -17,21 +18,26 @@ gomanevgeny@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/gomanevgeny/)
 ***
+
 ## Profile
 8+ years of diverse experience in the music industry: editorial, content curation and programming, digital distribution, marketing and project management. Was lucky to transform my passion for music into a lifework. Took my path from major label through music distributor to streaming service, which allowed me to learn all the processes inside out and to become an all-rounded music industry professional. Tend to improve my editorial skills permanently, therefore always stand on the cutting edge of the music trends. Appreciate people I work with, value their time and resources. Open-minded, with developed interpersonal skills, well-organized in work processes and personal life.
 ***
+
 ## Skills
 * CMSs
 * DAWs
 * Keynote
 ***
+
 ## Code Example
 No code example yet.
 ***
+
 ## Courses
 * RS Schools Course - JavaScript/Front-end. Stage 0 (in progress)
 * Maskeliade School - Music Production (Ableton)
 ***
+
 ## Work Experience
 #### Apple (2019-Present)
 ###### *Editorial, Programming and Content Curation.*
@@ -52,11 +58,13 @@ No code example yet.
 * Interacted with TV & radio partners, signed contracts with new ones, delivered content.
 * Managed third-party providers: agencies, contractors, freelancers, etc.
 ***
+
 ## Education
 Russian State University for the Humanities
 
 Moscow, Russia — Bachelor’s Degree in Culturology, 2014
 ***
+
 ## Languages
 * English - Professional working proficiency
 * Russian - Native or bilingual proficiency
