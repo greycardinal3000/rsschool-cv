@@ -1,5 +1,6 @@
 # Evgeny Goman
 ### Music Editor
+![Avatar](https://avatars.githubusercontent.com/u/105670264?v=4)
 ***
 ## Contacts
 **Phone:**
