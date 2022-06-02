@@ -52,12 +52,14 @@ No code example yet.
 * Monitor music markets for relevant content and examine local global partners’ recommendations.
 * Engage and program local & global editorial campaigns from concept development to launch.
 * Collaborate closely with diverse international teams including cross-functional projects.
+
 #### Believe (2017-2019)
 ###### *Sales, services execution and management of artists & labels portfolio.*
 * Led a network of over 120 accounts in Russia, Ukraine & CIS: digital distribution, data and royalties.
 * Managed new releases & catalogues, developed strategies in digital, coordinated promo with DSPs.
 * Developed and searched for promising and established artists and labels for digital distribution.
 * Signed major local artists and labels.
+
 #### Sony Music Entertainment (2015-2017)
 ###### *Support of marketing department’s functioning.*
 * Planned, organized and maintained marketing campaigns: digital & offline.
